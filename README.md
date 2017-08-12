@@ -1,6 +1,6 @@
 # Particles Background With Infinite Gradient Effect
 
-[![license](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/imkrunal/particles-with-infinite-gradient/LICENSE.md)
+[![license](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/imkrunal/particles-with-infinite-gradient/blob/master/LICENSE.md)
 
 ## Change Gradient Color
 
